@@ -120,6 +120,7 @@ namespace MatchGame
             if (matchesFound == 8)
             {
                 SetUpGame();
+
             }
 
 
